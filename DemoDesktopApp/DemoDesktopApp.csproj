@@ -220,18 +220,6 @@
       <UserCode>true</UserCode>
       <id>6b8f30ba-2b12-4057-9d81-6075216f29e2</id>
     </Compile>
-    <Compile Include="RecordingofAddEntry.cs">
-      <BoundTo>a0a68033-cdd7-45f6-9efd-dd90326c4a97</BoundTo>
-      <DependentUpon>RecordingofAddEntry.rxrec</DependentUpon>
-      <RecorderCode>true</RecorderCode>
-      <id>e421bd48-a3d9-4095-973b-1d00b4f3b60f</id>
-    </Compile>
-    <Compile Include="RecordingofAddEntry.UserCode.cs">
-      <BoundTo>a0a68033-cdd7-45f6-9efd-dd90326c4a97</BoundTo>
-      <DependentUpon>RecordingofAddEntry.rxrec</DependentUpon>
-      <UserCode>true</UserCode>
-      <id>5b5bce91-90e0-488d-8070-cecca3a4dfa4</id>
-    </Compile>
     <Compile Include="selectDepartment.cs">
       <BoundTo>6ece5bd8-1e85-4979-8831-b9d9e7b5c0c3</BoundTo>
       <DependentUpon>selectDepartment.rxrec</DependentUpon>
@@ -308,20 +296,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <id>28215498-7245-4cd7-af06-74434dce20e6</id>
     </Content>
-    <Content Include="Complete_Steps_DataSource.csv">
-      <Link>Complete_Steps_DataSource.csv</Link>
-      <BoundTo>47d40b53-dac3-4693-9e8b-c8205da74656</BoundTo>
-      <DependentUpon>DemoDesktopApp.rxtst</DependentUpon>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <id>2bad2ad0-69ec-434d-a648-78b7a7a7bdd2</id>
-    </Content>
-    <Content Include="DataSourceforAddEntry - Sheet1.csv">
-      <Link>DataSourceforAddEntry - Sheet1.csv</Link>
-      <BoundTo>47d40b53-dac3-4693-9e8b-c8205da74656</BoundTo>
-      <DependentUpon>DemoDesktopApp.rxtst</DependentUpon>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-      <id>6a2e8782-50ba-4acc-857a-6847784b9207</id>
-    </Content>
     <None Include="DemoDesktopAppRepository.rximg">
       <BoundTo>65eb400c-c6f4-4e76-bcf0-c6a9487f4b57</BoundTo>
       <DependentUpon>DemoDesktopAppRepository.rxrep</DependentUpon>
@@ -352,11 +326,6 @@
       <BoundTo>65eb400c-c6f4-4e76-bcf0-c6a9487f4b57</BoundTo>
       <id>0746c7d7-3635-46e3-8f55-5681fc363856</id>
       <recordtableid>a28b576f-f410-44a2-9d7c-86e468d952ad</recordtableid>
-    </None>
-    <None Include="RecordingofAddEntry.rxrec">
-      <BoundTo>65eb400c-c6f4-4e76-bcf0-c6a9487f4b57</BoundTo>
-      <id>a0a68033-cdd7-45f6-9efd-dd90326c4a97</id>
-      <recordtableid>5d1978cc-4172-4f4b-a772-d67e66ac935e</recordtableid>
     </None>
     <None Include="selectDepartment.rxrec">
       <BoundTo>65eb400c-c6f4-4e76-bcf0-c6a9487f4b57</BoundTo>

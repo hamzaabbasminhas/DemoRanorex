@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="9.3">
+	<testsuiteentryhierarchy>
+		<flatlistofchildren>
+			<modulegroups
+			id="0f93dfed-f245-43c2-b300-72e3f6a813d0"
+			name="DemoDesktopApp">
+			</modulegroups>
+			<modulegroupdef
+			id="c0795a25-2a95-4536-97fa-6605085cdd20"
+			name="ModuleGroup">
+			</modulegroupdef>
+		</flatlistofchildren>
+		<childhierarchy>
+			<modulegroups
+			id="0f93dfed-f245-43c2-b300-72e3f6a813d0"
+			name="DemoDesktopApp">
+				<modulegroupdef
+				id="c0795a25-2a95-4536-97fa-6605085cdd20"
+				name="ModuleGroup">
+				</modulegroupdef>
+			</modulegroups>
+		</childhierarchy>
+	</testsuiteentryhierarchy>
+</modulegroupdoc>

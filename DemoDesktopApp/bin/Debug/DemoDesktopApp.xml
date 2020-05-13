@@ -1,0 +1,721 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DemoDesktopApp</name>
+    </assembly>
+    <members>
+        <member name="T:DemoDesktopApp.clickOnTestDatabase">
+             <summary>
+            The clickOnTestDatabase recording.
+             </summary>
+        </member>
+        <member name="F:DemoDesktopApp.clickOnTestDatabase.repo">
+            <summary>
+            Holds an instance of the DemoDesktopAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.clickOnTestDatabase.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.clickOnTestDatabase.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:DemoDesktopApp.clickOnTestDatabase.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.clickOnTestDatabase.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:DemoDesktopApp.clickOnTestDatabase.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.clickOnTestDatabase.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:DemoDesktopApp.clickSubmit">
+             <summary>
+            The clickSubmit recording.
+             </summary>
+        </member>
+        <member name="F:DemoDesktopApp.clickSubmit.repo">
+            <summary>
+            Holds an instance of the DemoDesktopAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.clickSubmit.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.clickSubmit.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:DemoDesktopApp.clickSubmit.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.clickSubmit.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:DemoDesktopApp.clickSubmit.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.clickSubmit.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:DemoDesktopApp.CloseAUT">
+             <summary>
+            The CloseAUT recording.
+             </summary>
+        </member>
+        <member name="F:DemoDesktopApp.CloseAUT.repo">
+            <summary>
+            Holds an instance of the DemoDesktopAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.CloseAUT.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.CloseAUT.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:DemoDesktopApp.CloseAUT.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.CloseAUT.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:DemoDesktopApp.CloseAUT.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.CloseAUT.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.CloseAUT.CloseAutProcessIDVar">
+            <summary>
+            Gets or sets the value of variable CloseAutProcessIDVar.
+            </summary>
+        </member>
+        <member name="T:DemoDesktopApp.DemoDesktopAppRepository">
+            <summary>
+            The class representing the DemoDesktopAppRepository element repository.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.DemoDesktopAppRepository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepository.Instance">
+            <summary>
+            Gets the singleton class instance representing the DemoDesktopAppRepository element repository.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepository.txtGender">
+            <summary>
+            Gets or sets the value of variable txtGender.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepository.txtSelectDepartment">
+            <summary>
+            Gets or sets the value of variable txtSelectDepartment.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepository.RxMainFrame">
+            <summary>
+            The RxMainFrame folder.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepository.List1000">
+            <summary>
+            The List1000 folder.
+            </summary>
+        </member>
+        <member name="T:DemoDesktopApp.DemoDesktopAppRepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxMainFrameAppFolder">
+            <summary>
+            The RxMainFrameAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxMainFrameAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new RxMainFrame  folder.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxMainFrameAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxMainFrameAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxMainFrameAppFolder.TestDatabase">
+            <summary>
+            The TestDatabase item.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxMainFrameAppFolder.TestDatabaseInfo">
+            <summary>
+            The TestDatabase item info.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxMainFrameAppFolder.Close">
+            <summary>
+            The Close item.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxMainFrameAppFolder.CloseInfo">
+            <summary>
+            The Close item info.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxMainFrameAppFolder.RxTabStandard1">
+            <summary>
+            The RxTabStandard1 folder.
+            </summary>
+        </member>
+        <member name="T:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder">
+            <summary>
+            The RxTabStandard1Folder folder.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new RxTabStandard1  folder.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.RxTabStandard">
+            <summary>
+            The RxTabStandard item.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.RxTabStandardInfo">
+            <summary>
+            The RxTabStandard item info.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.Open">
+            <summary>
+            The Open item.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.OpenInfo">
+            <summary>
+            The Open item info.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.RdbGender">
+            <summary>
+            The RdbGender item.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.RdbGenderInfo">
+            <summary>
+            The RdbGender item info.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.FirstName">
+            <summary>
+            The FirstName item.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.FirstNameInfo">
+            <summary>
+            The FirstName item info.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.BtnAddPerson">
+            <summary>
+            The BtnAddPerson item.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.BtnAddPersonInfo">
+            <summary>
+            The BtnAddPerson item info.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.ButtonUp">
+            <summary>
+            The ButtonUp item.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.ButtonUpInfo">
+            <summary>
+            The ButtonUp item info.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.LblNumberOfPersonsNumber">
+            <summary>
+            The LblNumberOfPersonsNumber item.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.RxTabStandard1Folder.LblNumberOfPersonsNumberInfo">
+            <summary>
+            The LblNumberOfPersonsNumber item info.
+            </summary>
+        </member>
+        <member name="T:DemoDesktopApp.DemoDesktopAppRepositoryFolders.List1000AppFolder">
+            <summary>
+            The List1000AppFolder folder.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.DemoDesktopAppRepositoryFolders.List1000AppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new List1000  folder.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.List1000AppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.List1000AppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.List1000AppFolder.SelectDepartment">
+            <summary>
+            The SelectDepartment item.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.DemoDesktopAppRepositoryFolders.List1000AppFolder.SelectDepartmentInfo">
+            <summary>
+            The SelectDepartment item info.
+            </summary>
+        </member>
+        <member name="T:DemoDesktopApp.insertAge">
+             <summary>
+            The insertAge recording.
+             </summary>
+        </member>
+        <member name="F:DemoDesktopApp.insertAge.repo">
+            <summary>
+            Holds an instance of the DemoDesktopAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.insertAge.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.insertAge.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:DemoDesktopApp.insertAge.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.insertAge.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:DemoDesktopApp.insertAge.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.insertAge.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:DemoDesktopApp.InsertFirstName">
+             <summary>
+            The insertFirstName recording.
+             </summary>
+        </member>
+        <member name="F:DemoDesktopApp.InsertFirstName.repo">
+            <summary>
+            Holds an instance of the DemoDesktopAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.InsertFirstName.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.InsertFirstName.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:DemoDesktopApp.InsertFirstName.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.InsertFirstName.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:DemoDesktopApp.InsertFirstName.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.InsertFirstName.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.InsertFirstName.txtFirstName">
+            <summary>
+            Gets or sets the value of variable txtFirstName.
+            </summary>
+        </member>
+        <member name="T:DemoDesktopApp.insertLastName">
+             <summary>
+            The insertLastName recording.
+             </summary>
+        </member>
+        <member name="F:DemoDesktopApp.insertLastName.repo">
+            <summary>
+            Holds an instance of the DemoDesktopAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.insertLastName.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.insertLastName.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:DemoDesktopApp.insertLastName.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.insertLastName.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:DemoDesktopApp.insertLastName.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.insertLastName.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.insertLastName.txtLastName">
+            <summary>
+            Gets or sets the value of variable txtLastName.
+            </summary>
+        </member>
+        <member name="T:DemoDesktopApp.Recording1">
+             <summary>
+            The Recording1 recording.
+             </summary>
+        </member>
+        <member name="F:DemoDesktopApp.Recording1.repo">
+            <summary>
+            Holds an instance of the DemoDesktopAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.Recording1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.Recording1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:DemoDesktopApp.Recording1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.Recording1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:DemoDesktopApp.Recording1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.Recording1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.Recording1.txtFirstName">
+            <summary>
+            Gets or sets the value of variable txtFirstName.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.Recording1.txtLastName">
+            <summary>
+            Gets or sets the value of variable txtLastName.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.Recording1.txtExpected">
+            <summary>
+            Gets or sets the value of variable txtExpected.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.Recording1.txtSelectDepartment">
+            <summary>
+            Gets or sets the value of variable txtSelectDepartment.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.Recording1.txtGender">
+            <summary>
+            Gets or sets the value of variable txtGender.
+            </summary>
+        </member>
+        <member name="T:DemoDesktopApp.selectDepartment">
+             <summary>
+            The selectDepartment recording.
+             </summary>
+        </member>
+        <member name="F:DemoDesktopApp.selectDepartment.repo">
+            <summary>
+            Holds an instance of the DemoDesktopAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.selectDepartment.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.selectDepartment.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:DemoDesktopApp.selectDepartment.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.selectDepartment.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:DemoDesktopApp.selectDepartment.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.selectDepartment.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.selectDepartment.txtSelectDepartment">
+            <summary>
+            Gets or sets the value of variable txtSelectDepartment.
+            </summary>
+        </member>
+        <member name="T:DemoDesktopApp.selectGender">
+             <summary>
+            The selectGender recording.
+             </summary>
+        </member>
+        <member name="F:DemoDesktopApp.selectGender.repo">
+            <summary>
+            Holds an instance of the DemoDesktopAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.selectGender.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.selectGender.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:DemoDesktopApp.selectGender.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.selectGender.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:DemoDesktopApp.selectGender.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.selectGender.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.selectGender.txtGender">
+            <summary>
+            Gets or sets the value of variable txtGender.
+            </summary>
+        </member>
+        <member name="T:DemoDesktopApp.StartAUT">
+             <summary>
+            The StartAUT recording.
+             </summary>
+        </member>
+        <member name="F:DemoDesktopApp.StartAUT.repo">
+            <summary>
+            Holds an instance of the DemoDesktopAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.StartAUT.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.StartAUT.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:DemoDesktopApp.StartAUT.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.StartAUT.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:DemoDesktopApp.StartAUT.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.StartAUT.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.StartAUT.StartAutProcessIDVar">
+            <summary>
+            Gets or sets the value of variable StartAutProcessIDVar.
+            </summary>
+        </member>
+        <member name="T:DemoDesktopApp.validateTestCase">
+             <summary>
+            The validateTestCase recording.
+             </summary>
+        </member>
+        <member name="F:DemoDesktopApp.validateTestCase.repo">
+            <summary>
+            Holds an instance of the DemoDesktopAppRepository repository.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.validateTestCase.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.validateTestCase.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:DemoDesktopApp.validateTestCase.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:DemoDesktopApp.validateTestCase.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:DemoDesktopApp.validateTestCase.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.validateTestCase.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:DemoDesktopApp.validateTestCase.txtExpected">
+            <summary>
+            Gets or sets the value of variable txtExpected.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>

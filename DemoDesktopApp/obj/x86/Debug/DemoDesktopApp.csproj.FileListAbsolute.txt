@@ -1,0 +1,12 @@
+C:\Users\Hamza Abbas\Documents\Ranorex\RanorexStudio Projects\DemoDesktopApp\DemoDesktopApp\bin\Debug\DemoDesktopApp.xml
+C:\Users\Hamza Abbas\Documents\Ranorex\RanorexStudio Projects\DemoDesktopApp\DemoDesktopApp\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\Hamza Abbas\Documents\Ranorex\RanorexStudio Projects\DemoDesktopApp\DemoDesktopApp\obj\x86\Debug\DemoDesktopApp.csprojResolveAssemblyReference.cache
+C:\Users\Hamza Abbas\Documents\Ranorex\RanorexStudio Projects\DemoDesktopApp\DemoDesktopApp\obj\x86\Debug\DemoDesktopApp.exe
+C:\Users\Hamza Abbas\Documents\Ranorex\RanorexStudio Projects\DemoDesktopApp\DemoDesktopApp\obj\x86\Debug\DemoDesktopApp.pdb
+C:\Users\Hamza Abbas\Documents\Ranorex\RanorexStudio Projects\DemoDesktopApp\DemoDesktopApp\bin\Debug\Database.rxtst
+C:\Users\Hamza Abbas\Documents\Ranorex\RanorexStudio Projects\DemoDesktopApp\DemoDesktopApp\bin\Debug\DemoDesktopApp.rxsqc
+C:\Users\Hamza Abbas\Documents\Ranorex\RanorexStudio Projects\DemoDesktopApp\DemoDesktopApp\bin\Debug\DemoDesktopApp.rxtmg
+C:\Users\Hamza Abbas\Documents\Ranorex\RanorexStudio Projects\DemoDesktopApp\DemoDesktopApp\bin\Debug\DemoDesktopApp.rxtst
+C:\Users\Hamza Abbas\Documents\Ranorex\RanorexStudio Projects\DemoDesktopApp\DemoDesktopApp\bin\Debug\DemoDesktopApp.exe.config
+C:\Users\Hamza Abbas\Documents\Ranorex\RanorexStudio Projects\DemoDesktopApp\DemoDesktopApp\bin\Debug\DemoDesktopApp.exe
+C:\Users\Hamza Abbas\Documents\Ranorex\RanorexStudio Projects\DemoDesktopApp\DemoDesktopApp\bin\Debug\DemoDesktopApp.pdb
