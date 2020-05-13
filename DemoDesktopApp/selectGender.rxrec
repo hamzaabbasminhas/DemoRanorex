@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="a851e7c7-09cd-401e-82b4-2290d361d506"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="selectGender"
+	namespace="DemoDesktopApp">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="6;11"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="0f5f3e3e-96ee-4fb2-8b7c-42b4c706c3a6"
+		sx="364"
+		sy="445"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="425d71c5-f99e-4794-8e0b-dbebba3d216c"
+			sourcename="Recorder">
+				<path>
+					/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/?/?/radiobutton[@controlname=$txtGender]
+				</path>
+			</info>
+		</mouseitem>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="Gender selected Successsfully"
+		optional="False"
+		reportlevel="Success;110"
+		searchpropertyid="a555e79c-791c-40de-aea7-c1923fb5f0f1">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
+	</recorditems>
+	<repository
+	id="ea1f26f2-69e9-4399-9292-f8c17105ba6f"
+	name="DemoDesktopAppRepository"
+	relativepath="DemoDesktopAppRepository.rxrep">
+		<codegen
+		classname="DemoDesktopAppRepository"
+		namespace="DemoDesktopApp">
+		</codegen>
+		<rootfolder
+		id="77b7a982-ea7e-4439-a156-85c98fe1f5fb"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		selectGender.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

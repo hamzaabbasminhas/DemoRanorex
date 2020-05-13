@@ -1,0 +1,500 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="6d8641c7-19a7-4d7b-abcd-adfe68112cfc"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="insertAge"
+	namespace="DemoDesktopApp">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<mouseitem
+		action="DoubleClick"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="6;5"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="f12fd454-e002-439e-9051-f4a7fc462653"
+		sx="301"
+		sy="440"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="be91b53f-d02c-4e61-a9d3-405636a7324e"
+			sourcename="Recorder">
+				<element
+				capabilities="accessible"
+				dontcache="False"
+				enabled="True"
+				flavor="msaa"
+				hasfocus="False"
+				index="0"
+				prefcap="button"
+				rect="295,435,16,10"
+				role="button"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="pressed"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						Up
+					</attribute>
+					<attribute
+					name="accessiblename"
+					type="System.String">
+						Up
+					</attribute>
+					<attribute
+					name="accessiblerole"
+					type="System.Windows.Forms.AccessibleRole, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						PushButton
+					</attribute>
+					<attribute
+					name="accessiblestate"
+					type="System.Windows.Forms.AccessibleStates, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						None
+					</attribute>
+					<attribute
+					name="accessiblevalue"
+					type="System.String">
+					</attribute>
+				</element>
+				<path>
+					/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/container[@controlname='txtAge']/?/?/button[@accessiblename='Up']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="0d5b96ed-2dd6-4742-bbec-d5e90562ab01">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCAArAEgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpKKZ5
+sf8Az0T/AL6FHmx/89E/76FAD6KZ5sf/AD0T/voVRk1q2jkZCkpKkjIAwf1pNpblwpyn8KuaNFZn
+9u2v/POb8h/jR/btr/zzm/If40uePc0+r1f5TToJwMmikbp+I/nVGAbuDgH8qKWipab2Y0FFFFUI
+Kx7Hm/vBkgGbnBx/erYrDeC/gup2ihG2WQkEsPf396luzTN6S5oyjfe35llL6FtRazKTKeQrksAz
+AZI/Ig/5Ga+tcQKMkgScZOe1TWNsbq3uo7xSsnng5U8odi4IPrVG6jvnnWxmCu/Lo+ceYMe56+o/
+pTm7xYqCUaqu9jo6Run4j+dLSN0/EfzpmItFFFADN7f88n/Mf40b2/55P+Y/xp9FADN7f88n/Mf4
+02Tc+PkkGDnjb/jUtFAGVIuoxtcLaxY3v5gkcqc4RQFxnuRjPYU3TCl1fSTCR5VXEqEzFvL3gjaV
+6Aj5vwNa9FABSN0/EfzpaRun4j+dAC0UUUAf/9k=
+			</helperscreenshot>
+		</mouseitem>
+		<mouseitem
+		action="DoubleClick"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="6;5"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="b06436c6-b288-411b-b1e8-576224dba537"
+		sx="301"
+		sy="440"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="be91b53f-d02c-4e61-a9d3-405636a7324e"
+			sourcename="Recorder">
+				<element
+				capabilities="accessible"
+				dontcache="False"
+				enabled="True"
+				flavor="msaa"
+				hasfocus="False"
+				index="0"
+				prefcap="button"
+				rect="295,435,16,10"
+				role="button"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="pressed"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						Up
+					</attribute>
+					<attribute
+					name="accessiblename"
+					type="System.String">
+						Up
+					</attribute>
+					<attribute
+					name="accessiblerole"
+					type="System.Windows.Forms.AccessibleRole, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						PushButton
+					</attribute>
+					<attribute
+					name="accessiblestate"
+					type="System.Windows.Forms.AccessibleStates, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						None
+					</attribute>
+					<attribute
+					name="accessiblevalue"
+					type="System.String">
+					</attribute>
+				</element>
+				<path>
+					/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/container[@controlname='txtAge']/?/?/button[@accessiblename='Up']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="34edd39b-06b2-4ae1-a90a-32538d9a56b7">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCAArAEgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpKKZ5
+sf8Az0T/AL6FHmx/89E/76FAD6KZ5sf/AD0T/voVRk1q2jkZCkpKkjIAwf1pNpblwpyn8KuaNFZn
+9u2v/POb8h/jR/btr/zzm/If40uePc0+r1f5TToJwMmikbp+I/nVGAbuDgH8qKWipab2Y0FFFFUI
+Kx7Hm/vBkgGbnBx/erYrDeC/gup2ihG2WQkEsPf396luzTN6S5oyjfe35llL6FtRazKTKeQrksAz
+AZI/Ig/5Ga+tcQKMkgScZOe1TWNsbq3uo7xSsnng5U8odi4IPrVG6jvnnWxmCu/Lo+ceYMe56+o/
+pTm7xYqCUaqu9jo6Run4j+dLSN0/EfzpmItFFFADN7f88n/Mf40b2/55P+Y/xp9FADN7f88n/Mf4
+02Tc+PkkGDnjb/jUtFAGVIuoxtcLaxY3v5gkcqc4RQFxnuRjPYU3TCl1fSTCR5VXEqEzFvL3gjaV
+6Aj5vwNa9FABSN0/EfzpaRun4j+dAC0UUUAf/9k=
+			</helperscreenshot>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="6;4"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="044b6d2c-7874-4dd3-bdd4-a2fbb34fd1a2"
+		sx="301"
+		sy="439"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="be91b53f-d02c-4e61-a9d3-405636a7324e"
+			sourcename="Recorder">
+				<element
+				capabilities="accessible"
+				dontcache="False"
+				enabled="True"
+				flavor="msaa"
+				hasfocus="False"
+				index="0"
+				prefcap="button"
+				rect="295,435,16,10"
+				role="button"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="pressed"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						Up
+					</attribute>
+					<attribute
+					name="accessiblename"
+					type="System.String">
+						Up
+					</attribute>
+					<attribute
+					name="accessiblerole"
+					type="System.Windows.Forms.AccessibleRole, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						PushButton
+					</attribute>
+					<attribute
+					name="accessiblestate"
+					type="System.Windows.Forms.AccessibleStates, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						None
+					</attribute>
+					<attribute
+					name="accessiblevalue"
+					type="System.String">
+					</attribute>
+				</element>
+				<path>
+					/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/container[@controlname='txtAge']/?/?/button[@accessiblename='Up']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="c4d22757-0b64-4d3a-8499-dc4d7ef1b434">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCAArAEgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpKKZ5
+sf8Az0T/AL6FHmx/89E/76FAD6KZ5sf/AD0T/voVRk1q2jkZCkpKkjIAwf1pNpblwpyn8KuaNFZn
+9u2v/POb8h/jR/btr/zzm/If40uePc0+r1f5TToJwMmikbp+I/nVGAbuDgH8qKWipab2Y0FFFFUI
+Kx7Hm/vBkgGbnBx/erYrDeC/gup2ihG2WQkEsPf396luzTN6S5oyjfe35llLyM3jwSJJGgfy0lLH
+DNgEj2PPHr2qvrXECjJIEnGTntVjToTcW95Fexhi0uHUnP8AAtUb62vVljszmdGYmKU/ePHRj0yA
+Pxpyd4sVBKNVXex0NI3T8R/OlpG6fiP50zEWiiigBm9v+eT/AJj/ABo3t/zyf8x/jT6KAGb2/wCe
+T/mP8abJufHySDBzxt/xqWigDKmtb8vOsD+Ujt5gcEbiwVQAewGRz1z0pNLhVr6W4Nr5e4CTLxEM
+rt95QT1HHb1rWooAKRun4j+dLSN0/EfzoAWiiigD/9k=
+			</helperscreenshot>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="6;4"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="e93fe5c0-0990-4525-a1b5-89ec6fab6745"
+		sx="301"
+		sy="439"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="be91b53f-d02c-4e61-a9d3-405636a7324e"
+			sourcename="Recorder">
+				<element
+				capabilities="accessible"
+				dontcache="False"
+				enabled="True"
+				flavor="msaa"
+				hasfocus="False"
+				index="0"
+				prefcap="button"
+				rect="295,435,16,10"
+				role="button"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="pressed"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						Up
+					</attribute>
+					<attribute
+					name="accessiblename"
+					type="System.String">
+						Up
+					</attribute>
+					<attribute
+					name="accessiblerole"
+					type="System.Windows.Forms.AccessibleRole, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						PushButton
+					</attribute>
+					<attribute
+					name="accessiblestate"
+					type="System.Windows.Forms.AccessibleStates, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						None
+					</attribute>
+					<attribute
+					name="accessiblevalue"
+					type="System.String">
+					</attribute>
+				</element>
+				<path>
+					/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/container[@controlname='txtAge']/?/?/button[@accessiblename='Up']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="e7b9e878-0fea-4265-a6ba-87dc54299e15">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCAArAEgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpKKZ5
+sf8Az0T/AL6FHmx/89E/76FAD6KZ5sf/AD0T/voVRk1q2jkZCkpKkjIAwf1pNpblwpyn8KuaNFZn
+9u2v/POb8h/jR/btr/zzm/If40uePc0+r1f5TToJwMmikbp+I/nVGAbuDgH8qKWipab2Y0FFFFUI
+Kx7Hm/vBkgGbnBx/erYrDeC/gup2ihG2WQkEsPf396luzTN6S5oyjfe35llLyM3jwSJJGgfy0lLH
+DNgEj2PPHr2qvrXECjJIEnGTntVjToTcW95Fexhi0uHUnP8AAtUb62vVljszmdGYmKU/ePHRj0yA
+Pxpyd4sVBKNVXex0NI3T8R/OlpG6fiP50zEWiiigBm9v+eT/AJj/ABo3t/zyf8x/jT6KAGb2/wCe
+T/mP8abJufHySDBzxt/xqWigDKmtb8vOsD+Ujt5gcEbiwVQAewGRz1z0pNLhVr6W4Nr5e4CTLxEM
+rt95QT1HHb1rWooAKRun4j+dLSN0/EfzoAWiiigD/9k=
+			</helperscreenshot>
+		</mouseitem>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="6;4"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="1749ea2e-da5c-4c64-8702-038e9aff68fe"
+		sx="301"
+		sy="439"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="be91b53f-d02c-4e61-a9d3-405636a7324e"
+			sourcename="Recorder">
+				<element
+				capabilities="accessible"
+				dontcache="False"
+				enabled="True"
+				flavor="msaa"
+				hasfocus="False"
+				index="0"
+				prefcap="button"
+				rect="295,435,16,10"
+				role="button"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="pressed"
+					type="System.Boolean">
+						False
+					</attribute>
+					<attribute
+					name="text"
+					type="System.String">
+						Up
+					</attribute>
+					<attribute
+					name="accessiblename"
+					type="System.String">
+						Up
+					</attribute>
+					<attribute
+					name="accessiblerole"
+					type="System.Windows.Forms.AccessibleRole, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						PushButton
+					</attribute>
+					<attribute
+					name="accessiblestate"
+					type="System.Windows.Forms.AccessibleStates, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+						None
+					</attribute>
+					<attribute
+					name="accessiblevalue"
+					type="System.String">
+					</attribute>
+				</element>
+				<path>
+					/form[@controlname='RxMainFrame']/?/?/tabpage[@controlname='RxTabStandard']/container[@controlname='txtAge']/?/?/button[@accessiblename='Up']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="a8a21ac3-d5d0-4a92-ae1b-83cd4e58f772">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCAArAEgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpKKZ5
+sf8Az0T/AL6FHmx/89E/76FAD6KZ5sf/AD0T/voVRk1q2jkZCkpKkjIAwf1pNpblwpyn8KuaNFZn
+9u2v/POb8h/jR/btr/zzm/If40uePc0+r1f5TToJwMmikbp+I/nVGAbuDgH8qKWipab2Y0FFFFUI
+Kx7Hm/vBkgGbnBx/erYrDeC/gup2ihG2WQkEsPf396luzTN6S5oyjfe35llLyM3jwSJJGgfy0lLH
+DNgEj2PPHr2qvrXECjJIEnGTntVjToTcW95Fexhi0uHUnP8AAtUb62vVljszmdGYmKU/ePHRj0yA
+Pxpyd4sVBKNVXex0NI3T8R/OlpG6fiP50zEWiiigBm9v+eT/AJj/ABo3t/zyf8x/jT6KAGb2/wCe
+T/mP8abJufHySDBzxt/xqWigDKmtb8vOsD+Ujt5gcEbiwVQAewGRz1z0pNLhVr6W4Nr5e4CTLxEM
+rt95QT1HHb1rWooAKRun4j+dLSN0/EfzoAWiiigD/9k=
+			</helperscreenshot>
+		</mouseitem>
+		<loggingrecorditem
+		category="User"
+		enabled="True"
+		message="Age Entered Successfully"
+		optional="False"
+		reportlevel="Success;110"
+		searchpropertyid="5826e43a-749b-444f-9be1-891c47df8535">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</loggingrecorditem>
+	</recorditems>
+	<repository
+	id="ea1f26f2-69e9-4399-9292-f8c17105ba6f"
+	name="DemoDesktopAppRepository"
+	relativepath="DemoDesktopAppRepository.rxrep">
+		<codegen
+		classname="DemoDesktopAppRepository"
+		namespace="DemoDesktopApp">
+		</codegen>
+		<rootfolder
+		id="77b7a982-ea7e-4439-a156-85c98fe1f5fb"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		insertAge.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

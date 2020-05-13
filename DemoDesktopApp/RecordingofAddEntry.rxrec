@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="5d1978cc-4172-4f4b-a772-d67e66ac935e"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="RecordingofAddEntry"
+	namespace="DemoDesktopApp">
+	</codegen>
+	<variables>
+		<var
+		id="8c16d8f5-f2bb-4811-bc7a-f25f416f36af"
+		name="txtFirstName">
+			ABC
+		</var>
+		<var
+		id="4d4eda4e-d22c-47c1-adfb-c95b5bcfd917"
+		name="txtLastName">
+			DEF
+		</var>
+		<var
+		id="a9cb2b6f-d946-4146-9d1e-76efdb28b56e"
+		name="txtExpected">
+			1
+		</var>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="ea1f26f2-69e9-4399-9292-f8c17105ba6f"
+	name="DemoDesktopAppRepository"
+	relativepath="DemoDesktopAppRepository.rxrep">
+		<codegen
+		classname="DemoDesktopAppRepository"
+		namespace="DemoDesktopApp">
+		</codegen>
+		<rootfolder
+		id="77b7a982-ea7e-4439-a156-85c98fe1f5fb"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		RecordingofAddEntry.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
